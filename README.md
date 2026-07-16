@@ -22,3 +22,7 @@ If you are developing a production application, we recommend using TypeScript wi
 >>>>>>> c569ea86e573950c67ee51f68fad79e4a67636d1
 
 ![image alt](https://github.com/Prakashbhaskar123/electrosphere/blob/d11c85718794a5ff0639c71a5392dadb4bc3b835/Images/s1.png)
+![image alt](https://github.com/Prakashbhaskar123/electrosphere/blob/53f0280212d0f015b57c8fdcd968a8a834208c25/Images/s2.png)
+![image alt](https://github.com/Prakashbhaskar123/electrosphere/blob/53f0280212d0f015b57c8fdcd968a8a834208c25/Images/s3.png)
+![image alt](https://github.com/Prakashbhaskar123/electrosphere/blob/53f0280212d0f015b57c8fdcd968a8a834208c25/Images/s4.png)
+![image alt](https://github.com/Prakashbhaskar123/electrosphere/blob/53f0280212d0f015b57c8fdcd968a8a834208c25/Images/s5.png)
