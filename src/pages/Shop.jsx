@@ -202,16 +202,36 @@ function Shop() {
           ⚡ <span>Electro</span>Sphere
         </div>
         <div className="nav-links">
-          <span className="nav-link"
-            onClick={() => navigate('/explore')}>
-            🔭 Explore
-          </span>
-          <span className="nav-link active">🛒 Shop</span>
-        </div>
-        <button
-          className="cart-icon"
-          onClick={() => setShowCart(true)}
-        >
+  <span className="nav-link"
+    onClick={() => navigate('/explore')}>
+    🔭 Explore
+  </span>
+  <span className="nav-link active">🛒 Shop</span>
+</div>
+
+{localStorage.getItem('token') ? (
+  <button
+    className="logout-btn"
+    onClick={() => {
+      localStorage.clear()
+      window.location.reload()
+    }}
+  >
+    Logout
+  </button>
+) : (
+  <button
+    className="login-nav-btn"
+    onClick={() => navigate('/login')}
+  >
+    Login
+  </button>
+)}
+
+<button
+  className="cart-icon"
+  onClick={() => setShowCart(true)}
+>
           🛒 Cart
           {cartCount > 0 && (
             <span className="cart-count">{cartCount}</span>
