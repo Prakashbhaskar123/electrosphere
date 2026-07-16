@@ -304,7 +304,7 @@ PUT  /api/orders/:id          → Update order status (Admin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leela--prakash--penta-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/leela-prakash-penta)
 [![Email](https://img.shields.io/badge/Email-pentaleelaprakash@gmail.com-red?style=flat-square&logo=gmail)](mailto:pentaleelaprakash@gmail.com)
 
-> B.Tech ECE | Vishnu Institute of Technology | GPA: 9.5/10  
+> B.Tech ECE |   
 > VLSI Enthusiast × Full Stack Developer
 
 ---
